@@ -1,4 +1,7 @@
-export default function Modal() {
+export default function Modal(props) {
+
+    const {showExerciseDescription, handleCloseModal} = props
+
     return (
         <></>
     )
