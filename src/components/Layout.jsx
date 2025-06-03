@@ -11,7 +11,6 @@ export default function Layout(props) {
 
     const footer = (
         <footer>
-            <p>Built by</p>
         </footer>
     )
 
